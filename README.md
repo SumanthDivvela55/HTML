@@ -1,5 +1,8 @@
 # HTML Assignments
 
+## Github Link
+  (https://github.com/SumanthDivvela55/HTML)
+  
 ## Overview
 This repository contains a series of HTML assignments aimed at practicing basic to advanced HTML concepts. Each assignment focuses on a different aspect of HTML, from creating basic structures to using semantic elements and forms. Below are the details of each assignment.
 
@@ -78,9 +81,6 @@ Create an HTML document that includes:
 2. Navigate to the folder containing the assignment you want to work on.
 3. Open the corresponding HTML file in your favorite text editor or IDE.
 4. View the HTML file in a web browser to see the output.
-
-## Github Link
-  (https://github.com/SumanthDivvela55/HTML)
 
 ## Conclusion
 These assignments are designed to help understand and apply various HTML concepts. By completing them, will gain practical experience in creating structured, semantic, and interactive web pages.
